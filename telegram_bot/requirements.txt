@@ -1,0 +1,6 @@
+# Telegram Bot dependencies
+# Используем aiogram вместо python-telegram-bot (совместим с Python 3.13)
+aiogram>=3.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+

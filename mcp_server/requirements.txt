@@ -1,0 +1,10 @@
+# MCP Server dependencies
+# 
+# Для базового MCP сервера (server.py) зависимости НЕ требуются
+# Все модули входят в стандартную библиотеку Python 3.7+
+#
+# Для HTTP сервера (http_server.py) требуются:
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.8.0
+
